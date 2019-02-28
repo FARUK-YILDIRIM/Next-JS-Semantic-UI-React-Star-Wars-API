@@ -7,7 +7,7 @@ Demo: https://out-6wj3p0mr4.now.sh/
 # Setup
 
     git clone https://github.com/frkyldrm/Next-JS-Semantic-UI-React-Star-Wars-API.git
-    npm start
+    npm install
 
 
 
