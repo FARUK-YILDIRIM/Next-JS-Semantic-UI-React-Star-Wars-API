@@ -1,2 +1,17 @@
-# Next-JS-Semantic-UI-React-Star-Wars-API
-Simple Next.js application with Semantic UI and isomorphic-fetch
+# Next JS + Semantic UI React Star Wars API 
+
+Simple Next.js application with **Semantic UI** and **isomorphic-fetch**.
+
+Demo: https://out-6wj3p0mr4.now.sh/
+
+# Setup
+
+    git clone https://github.com/frkyldrm/Next-JS-Semantic-UI-React-Star-Wars-API.git
+    npm start
+
+
+
+To start after the above operations are completed
+
+    npm run dev
+
