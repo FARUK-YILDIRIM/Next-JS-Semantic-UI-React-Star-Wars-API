@@ -1,0 +1,24 @@
+{
+  "name": "starwars",
+  "version": "1.0.0",
+  "description": "Simple Next.js application with Semantic UI and isomorphic-fetch",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.4",
+    "isomorphic-fetch": "^2.2.1",
+    "next": "^8.0.3",
+    "react": "^16.8.3",
+    "react-dom": "^16.8.3",
+    "semantic-ui-react": "^0.85.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "export": "next export"
+  },
+  "keywords": [],
+  "author": "Faruk YILDIRIM",
+  "license": "ISC"
+}
